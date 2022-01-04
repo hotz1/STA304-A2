@@ -6,4 +6,4 @@ For this assignment, I took data from the [Toronto Open Data Portal](https://ope
 
 The data which was collected from the City of Toronto's data portal was analyzed using R, and these analyses are shown in the RMarkdown document in this repo. The PDF file in this repo was created by knitting the RMarkdown document, and is formatted as a report, but the analyses and R code itself is only available in the RMarkdown document.
 
-The two CSV files in this repo were collected straight from the Toronto Open Data Portal, and were imported into R to analyse further, as described in the RMarkdown document in this repo. These CSV files represent a 'moment in time', as the data on the Toronto Open Data Portal is updated regularly, so these CSV files may no longer be accessible on the Open Data Portal.
+The two Microsoft Excel files in this repo were collected straight from the Toronto Open Data Portal, and were imported into R to analyse further, as described in the RMarkdown document in this repo. These files represent a 'moment in time', as the data on the Toronto Open Data Portal is updated regularly, so these CSV files may no longer be accessible on the Open Data Portal.
